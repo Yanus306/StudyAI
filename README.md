@@ -12,12 +12,14 @@
 ├── 📁 Boyoung/       # 보영
 ├── 📁 Seohyun/       # 서현
 ├── 📁 Soonkyu/       # 순규
+├── 📁 Tehun/         # 태훈
 └── 📁 Yujin/         # 유진
+
 
 ```
 
 ### 🔄 스터디 진행 워크플로우
-**우리 스터디는 `main` 브랜치에 직접 코드를 올리지 않고, 반드시 Pull Request (PR)와 코드 리뷰를 거쳐 병합(Merge)합니다.**
+**우리 스터디는 `main` 브랜치에 직접 코드를 올리지 않고, Pull Request (PR)와 코드 리뷰를 거쳐 본인 폴더에 merge합니다.**
 
 1. **브랜치 생성**: `main` 브랜치 최신 상태에서 본인의 작업 브랜치를 생성합니다.  
     브랜치명 규칙: `feature/본인이름-작업내용` (예: `feature/seohyun-ai-model`)  
